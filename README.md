@@ -1,7 +1,7 @@
 # What is this?
-This is the code I wrote that powered a simple line following robot that achieved the fastest base time overall, and second during Week E at the Robotics for Sustainable Economic Growth course held by the University of Toronto's CREATE program.
+This is the code I wrote that powered a simple line following robot we dubbed AC920 that placed second during Week E and achieved the fastest base time across all weeks at the Robotics for Sustainable Economic Growth course held by the University of Toronto's CREATE program.
 
-It was written in Arduino with three IR sensors, one Ultrasonic Sensor and two Motors in mind
+It was written in Arduino with three IR sensors, one Ultrasonic Sensor and two Motors in mind.
 
 # Major Challenges
 - fine tuning speeds to ensure stable but quick traversal
