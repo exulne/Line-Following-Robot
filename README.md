@@ -24,3 +24,4 @@ It was written in Arduino with three IR sensors, one Ultrasonic Sensor and two M
 ### Other Stuff
 - Went through about 7 IR sensors before we found a working one
 - POWER GUZZLER (will use up a 9V battery essentially per run)
+- Dubbed AC920 after our teammates missed flight number
